@@ -1,0 +1,11 @@
+payment_id,customer_name,customer_id,payment_amount,payment_date,invoice_reference,description
+PAY-5001,North Star Foods,CUST-001,1250.00,2026-01-18,INV-1001,Exact invoice settlement
+PAY-5002,Bluebird Studio LLC,CUST-002,480.00,2026-01-20,INV-1002,Correct match
+PAY-5003,Greenway Markets,CUST-003,600.00,2026-01-22,INV-1003,Partial payment amount mismatch
+PAY-5004,Harbor Laundry,CUST-006,950.00,2026-01-25,INV-1006,Unallocated until reviewed
+PAY-5005,Northstar Foods,CUST-001,1250.00,2026-01-26,,Duplicate-looking transaction
+PAY-5006,River Bend Cafe,CUST-005,300.00,2026-01-28,INV-1005,Correct match
+PAY-5007,Duplicate Signals,CUST-007,275.00,2026-01-29,INV-1007,Ambiguous payment candidate
+PAY-5008,Duplicate Signals,CUST-007,275.00,2026-01-29,INV-1007,Duplicate-looking repeated amount
+PAY-5009,Unlisted Customer,CUST-999,440.00,2026-01-30,,Unallocated payment
+PAY-5010,Invalid Payment,CUST-010,-20.00,not-a-date,,Negative amount and invalid date

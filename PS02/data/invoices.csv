@@ -1,0 +1,11 @@
+invoice_id,customer_name,customer_id,invoice_amount,invoice_date
+INV-1001,Northstar Foods,CUST-001,1250.00,2026-01-05
+INV-1002,Bluebird Studio,CUST-002,480.00,2026-01-08
+INV-1003,Greenway Market,CUST-003,720.00,2026-01-12
+INV-1004,Apex Plumbing,CUST-004,950.00,2026-01-15
+INV-1005,River Bend Cafe,CUST-005,300.00,2026-01-20
+INV-1006,Harbor Laundry,CUST-006,950.00,2026-01-22
+INV-1007,Duplicate Signals,CUST-007,275.00,2026-01-25
+INV-1008,Unmatched Office,CUST-008,610.00,2026-01-28
+INV-1009,,CUST-009,100.00,2026-01-29
+INV-1009,Apex Services,CUST-009,not-a-number,not-a-date
